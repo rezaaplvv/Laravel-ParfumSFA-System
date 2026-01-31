@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Smart Sales Force & POS System (Parfum Edition)
+# Smart Sales Force & POS System (Parfum Edition)
 
 **Sistem manajemen distribusi dan kasir parfum terintegrasi dengan pelacakan lokasi sales real-time dan cetak struk bluetooth.**
 
@@ -8,9 +8,9 @@
 
 </div>
 
-## 📸 Preview Aplikasi
+## Preview Aplikasi
 
-### 💻 Panel Administrator (Web Dashboard)
+### Panel Administrator (Web Dashboard)
 Tampilan desktop untuk memantau kinerja sales, stok gudang, dan laporan keuangan secara *real-time*.
 
 <table>
@@ -20,7 +20,7 @@ Tampilan desktop untuk memantau kinerja sales, stok gudang, dan laporan keuangan
       <br><b>1. Form Login Administrator</b>
     </td>
     <td align="center" width="50%">
-      <img src="DashboardAdminParfum.png" alt="Dashboard Utama" width="100%">
+      <img src="Dashboardadminparfum.png" alt="Dashboard Utama" width="100%">
       <br><b>2. Dashboard Statistik Utama</b>
     </td>
   </tr>
@@ -64,7 +64,7 @@ Tampilan desktop untuk memantau kinerja sales, stok gudang, dan laporan keuangan
 
 <br>
 
-### 📱 Aplikasi Sales (Mobile View)
+### Aplikasi Sales (Mobile View)
 Antarmuka responsif untuk Sales melakukan absensi, kunjungan, dan transaksi di lapangan.
 
 <table>
@@ -120,9 +120,9 @@ Antarmuka responsif untuk Sales melakukan absensi, kunjungan, dan transaksi di l
 
 ---
 
-## 🔥 Fitur Unggulan
+## Fitur Unggulan
 
-### 🏢 Untuk Administrator (Web)
+### Untuk Administrator (Web)
 * **Dashboard Analitik:** Grafik penjualan harian, total omzet, dan performa sales terbaik.
 * **Live Tracking GPS:** Memantau posisi sales secara *real-time* saat jam kerja untuk mencegah kecurangan.
 * **Manajemen Inventori:** Kelola stok masuk/keluar, harga modal, dan harga jual.
@@ -130,7 +130,7 @@ Antarmuka responsif untuk Sales melakukan absensi, kunjungan, dan transaksi di l
 * **Laporan Keuangan:** Ekspor data penjualan otomatis ke format **Excel (.xlsx)** untuk pembukuan.
 * **Role Management:** Hak akses khusus untuk Super Admin dan Admin Gudang.
 
-### 🛵 Untuk Sales Lapangan (Mobile)
+### Untuk Sales Lapangan (Mobile)
 * **Absensi Berbasis Lokasi (Geo-tagging):** Sales hanya bisa absen jika berada dalam radius lokasi yang ditentukan.
 * **Mobile POS (Point of Sales):** Input pesanan langsung dari HP, hitung total otomatis.
 * **Cetak Struk Bluetooth:** Integrasi dengan printer thermal (support RawBT) untuk cetak nota instan di toko.
@@ -139,7 +139,7 @@ Antarmuka responsif untuk Sales melakukan absensi, kunjungan, dan transaksi di l
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Backend:** Laravel 12 (PHP)
 * **Frontend:** Bootstrap 5, Blade Template
 * **Database:** MySQL
@@ -148,7 +148,7 @@ Antarmuka responsif untuk Sales melakukan absensi, kunjungan, dan transaksi di l
 
 ---
 
-## 💼 Penawaran Lisensi & Kustomisasi
+## Penawaran Lisensi & Kustomisasi
 
 Sistem ini **siap digunakan** (Ready to Use) untuk operasional bisnis distribusi harian Anda. 
 Jika Anda tertarik untuk memiliki **Source Code Lengkap**, membeli lisensi, atau membutuhkan **kustomisasi fitur** (seperti integrasi HRD, Payroll, dll), silakan hubungi kami:
