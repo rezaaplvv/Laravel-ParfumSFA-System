@@ -50,7 +50,7 @@ Tampilan desktop untuk memantau kinerja sales, stok gudang, dan laporan keuangan
       <br><b>7. Detail Riwayat Transaksi Outlet</b>
     </td>
     <td align="center">
-      <img src="MonitoringSales.png" alt="Peta Sebaran" width="100%">
+      <img src="Monitoringsales.png" alt="Peta Sebaran" width="100%">
       <br><b>8. Peta Sebaran Kunjungan</b>
     </td>
   </tr>
