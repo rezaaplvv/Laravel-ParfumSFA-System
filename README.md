@@ -26,7 +26,7 @@ Tampilan desktop untuk memantau kinerja sales, stok gudang, dan laporan keuangan
   </tr>
   <tr>
     <td align="center">
-      <img src="KelolaSales.png" alt="Manajemen Sales" width="100%">
+      <img src="Kelolasales.png" alt="Manajemen Sales" width="100%">
       <br><b>3. Manajemen Tim Sales</b>
     </td>
     <td align="center">
